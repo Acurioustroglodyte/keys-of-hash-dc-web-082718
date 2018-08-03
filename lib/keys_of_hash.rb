@@ -1,8 +1,8 @@
 require 'pry'
 
 class Hash
-  def keys_of(*hash, arguments)
-    binding.pry
+  def keys_of(arguments)
+    
   end
 end
 
